@@ -2,8 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNISUL Pedra Branca.
 
-### 📚 Minha Formação
-* **SENAC**: Formação em Lógica de Programação (conhecimentos em algoritmos e resolução de problemas).
+* **SENAC**: Curso Lógica de Programação (conhecimentos em algoritmos e resolução de problemas).
 * **UNISUL**: Graduação em andamento.
 
 ### 🎯 Meu Objetivo
